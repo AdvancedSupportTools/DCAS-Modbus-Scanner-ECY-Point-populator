@@ -1,6 +1,6 @@
 ---
 
-# Modbus Scanner + ECY Point Populator
+Modbus Scanner + ECY Point Populator
 
 > ⚠️ **IMPORTANT: COMMUNITY TOOL – NOT AN OFFICIAL DISTECH CONTROLS PRODUCT**
 >
