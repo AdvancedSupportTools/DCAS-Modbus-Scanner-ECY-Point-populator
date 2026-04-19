@@ -1,4 +1,3 @@
----
 
 Modbus Scanner + ECY Point Populator
 
@@ -14,7 +13,7 @@ Modbus Scanner + ECY Point Populator
 [![Modbus](https://img.shields.io/badge/protocol-Modbus%20TCP%20%7C%20RTU-green)]()
 [![Community Tool](https://img.shields.io/badge/status-community%20tool-orange)]()
 
----
+
 
 ## ⚠️ Important Notice
 
@@ -32,7 +31,7 @@ This application is:
 
 **By using this tool, you acknowledge and accept these terms.**
 
----
+
 
 ## 🎯 What Is This Tool?
 
@@ -53,7 +52,7 @@ System integrators, commissioning engineers, and advanced technical support pers
 **Developed by:**  
 Distech Controls Advanced Support Team (community project)
 
----
+
 
 ## ✨ Key Features
 
@@ -66,7 +65,7 @@ Distech Controls Advanced Support Team (community project)
 - Built-in network diagnostics (Ping + TCP port test)
 - Automatic quantity caps per Modbus specification
 
----
+
 
 ### 📊 **Live Register & Bit Inspection**
 
@@ -82,7 +81,7 @@ Distech Controls Advanced Support Team (community project)
   - Remove row
   - Decode bits / values
 
----
+
 
 ### 🧮 **Data Type Decoding**
 
@@ -95,7 +94,7 @@ Instant interpretation of raw register data as:
 
 Data type changes trigger automatic re-reads when connected.
 
----
+
 
 ### ✍️ **Write Operations (Use With Care)**
 
@@ -107,7 +106,7 @@ Data type changes trigger automatic re-reads when connected.
 
 ⚠️ *Writes affect live devices – ensure you understand the impact before use.*
 
----
+
 
 ### 🧩 **Manual & CSV Register Mapping**
 
@@ -117,7 +116,7 @@ Data type changes trigger automatic re-reads when connected.
 - Preserve names, data types, and values
 - Ideal for documenting vendor Modbus maps
 
----
+
 
 ### 🔌 **ECY Device & Point Population**
 
@@ -129,7 +128,7 @@ Data type changes trigger automatic re-reads when connected.
 
 *(Point POST logic mirrors original Advanced Support internal tooling)*
 
----
+
 
 ### 🪛 **Frame Injector (Advanced / Experimental)**
 
@@ -138,7 +137,7 @@ Data type changes trigger automatic re-reads when connected.
 - Intended for protocol testing and troubleshooting
 - **Recommended for advanced users only**
 
----
+
 
 ### 🖥️ **Rich UI & Diagnostics**
 
@@ -153,7 +152,7 @@ Data type changes trigger automatic re-reads when connected.
   - Error count
   - Last scan time
 
----
+
 
 ## 📥 Installation & Requirements
 
@@ -168,7 +167,7 @@ Data type changes trigger automatic re-reads when connected.
 
 **No additional dependencies required.**
 
----
+
 
 ### **Running the Tool**
 
@@ -181,7 +180,7 @@ Data type changes trigger automatic re-reads when connected.
 5. Decode, name, test, and optionally write values
 6. Populate ECY device and points as needed
 
----
+
 
 ## 🎮 Typical Workflow
 
@@ -194,7 +193,7 @@ Data type changes trigger automatic re-reads when connected.
 7. **Export CSV or**
 8. **POST device & points into ECY**
 
----
+
 
 ## 🧠 Intended Users
 
@@ -206,7 +205,7 @@ This tool is designed for users who understand:
 
 **Not recommended for untrained users or production experimentation without testing.**
 
----
+
 
 ## 🐛 Stability & Risk Notes
 
@@ -218,7 +217,7 @@ This tool is designed for users who understand:
   - Affect building operation
 - Always validate in a **lab or maintenance window** first
 
----
+
 
 ## 📜 Legal & Licensing
 
@@ -230,7 +229,7 @@ See:
 - 📄 **[DISCLAIMER.txt](DISCLAIMER.txt)** – legal status, warranty, liability
 - 📄 **THIRD-PARTY-NOTICES.txt** – external components (if applicable)
 
----
+
 
 ## 🤝 Support & Feedback
 
@@ -244,7 +243,7 @@ There are:
 - ❌ No guaranteed response times
 - ❌ No obligation for future development
 
----
+
 
 ## 📊 Project Information
 
@@ -254,11 +253,11 @@ There are:
 - **Status:** Community Tool
 - **Maintained by:** Distech Controls Advanced Support Team
 
----
+
 
 **Built with ⚡ by the Distech Controls Advanced Support Team**
 
 *Please review [DISCLAIMER.txt](DISCLAIMER.txt) before use.*
 
----
+
 
